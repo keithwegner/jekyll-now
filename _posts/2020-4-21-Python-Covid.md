@@ -7,4 +7,4 @@ Two weeks ago I forked and modified a plain but fairly interesting python comman
 
 Here is an example of its output (from 21APR2020):
 
-![_config.yml]({{ site.baseurl }}/images/coronavirus.png =372x236)
+![_config.yml]({{ site.baseurl }}/images/coronavirus.png)
